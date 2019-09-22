@@ -17,10 +17,16 @@ contract Type_uint
   function increment_uint8() public
   {
     value_uint8++;
+    value_uint8++;
+    value_uint8++;
+    value_uint8++;
   }
 
   function increment_uint256() public
   {
+    value_uint256++;
+    value_uint256++;
+    value_uint256++;
     value_uint256++;
   }
 }
