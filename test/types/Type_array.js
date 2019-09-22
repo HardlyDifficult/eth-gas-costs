@@ -20,14 +20,14 @@ contract("Type_array", accounts => {
   });
 
   it("testReadCost 0", async () => {
-    await contract.testReadCost(0)
+    await contract.testReadCost(0);
   });
 
   it("testReadCost 1", async () => {
-    await contract.testReadCost(1)
+    await contract.testReadCost(1);
   });
 
   it("testCountCost", async () => {
-    await contract.testCountCost()
+    await contract.testCountCost();
   });
 });
