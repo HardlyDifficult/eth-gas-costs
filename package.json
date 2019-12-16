@@ -33,7 +33,7 @@
     "eslint-plugin-json": "1.4.0",
     "eslint-plugin-markdown": "1.0.0",
     "eslint-plugin-prettier": "3.1.2",
-    "eth-gas-reporter": "0.2.12",
+    "eth-gas-reporter": "0.2.14",
     "openzeppelin-solidity": "2.4.0",
     "openzeppelin-test-helpers": "0.4.3",
     "prettier": "1.19.1",
